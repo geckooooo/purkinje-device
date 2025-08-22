@@ -18,7 +18,7 @@ The code drives the LEDs such that:
 High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wavelengths) can also be effective as they penetrate closed eyelids well.
 
 
-### Blinking Frequency
+### Rhythmicity (Blinking Frequency)
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
 * 25ms: white with line patterns
@@ -32,10 +32,10 @@ The research literature aligns pretty well with my results:
 * 40-50ms off periods (18-23 Hz) producing color effects is consistent with alpha-range stimulation
 
 > [!NOTE]
-> Caution: stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures.
+> Caution: stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures. Be careful out there!
 
 
-### Brightness
+### Light Intensity (Brightness)
 High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
 
 
@@ -52,6 +52,6 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 * Implement command line parameters for setting the blinking frequencies
 * Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display
 * Investigate using RGBW LEDs
-* Investigate varying brightness
+* Add support for varying brightness. research suggests this varies the intensity of the hallucination-inducing effects
 * Add support for "programmed sequences" --> lightshow in your mind!
 * Document the electronics
