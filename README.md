@@ -23,10 +23,10 @@ High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
 ### Blinking Frequency
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
-* 25ms: white with line patterns.
+* 25ms: white with line patterns
 * 35ms: milder colors, line patterns (rings, etc.)
-* 40ms: lots of fast-changing vivid colors.
-* 50ms: splotches of color.
+* 40ms: lots of fast-changing vivid colors
+* 50ms: splotches of color
 
 The research literature aligns pretty well with my results:
 
