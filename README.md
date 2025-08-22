@@ -9,7 +9,9 @@ These hallucinations are visually induced perceptual disturbances, such as patte
 > [!NOTE]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
 
-The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. The code drives the LED such that:
+The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I shaped them as rectangles on the breadboard shaped and spaced to align my eyes when held up to my face.
+
+The code drives the LEDs such that:
 
 
 ### Color (Light Frequency)
@@ -46,4 +48,6 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 * Port the original 2010 Arduino/Processing implementation to Raspberry Pi/Go using [periph.io](https://periph.io)
 * Implement command line parameters for setting the blinking frequencies
 * Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display
+* Investigate using RGBW LEDs
+* Add support for "programmed sequences" --> lightshow in your mind!
 * Document the electronics
