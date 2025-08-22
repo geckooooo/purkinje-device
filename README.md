@@ -13,7 +13,7 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 
 
 ### Color (Light Frequency)
-White LEDs are most commonly used. Red LEDs (around 660nm wavelengths) can be particularly effective as they penetrate closed eyelids well.
+High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wavelengths) can also be effective as they penetrate closed eyelids well.
 
 
 ### Blinking Frequency
