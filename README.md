@@ -6,7 +6,7 @@ The Purkinje Device is a very simple electronic device--a form of stroboscopic l
 
 These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
 
-> [!NOTE]
+> [!WARNING]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
 
 The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I shaped them as rectangles on the breadboard shaped and spaced to align my eyes when held up to my face.
