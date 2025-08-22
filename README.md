@@ -51,9 +51,10 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 ## To Do
 * Port the original 2010 Arduino/Processing implementation to Raspberry Pi/Go using [periph.io](https://periph.io)
 * Implement command line parameters for setting the blinking frequencies
-* Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display
+* Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display (once ported to the Raspberry Pi)
 * Investigate using RGBW LEDs
 * Add support for varying brightness. research suggests this varies the intensity of the hallucination-inducing effects
 * Add support for "programmed sequences" --> lightshow in your mind!
 * Investigate different light shapes, sizes, and distances
+* Investigate the effects of high/low contrast (e.g. in a dark or bright room)
 * Document the electronics
