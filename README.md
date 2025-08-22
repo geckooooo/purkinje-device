@@ -1,24 +1,25 @@
 # purkinje-device
-Code that drives the Purkinje Device.
+Code that drives the Purkinje Device
 
 ## The Purkinje Device
-The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience a form of hallucination known as a [Purkinje patterns](https://www.photonics.com/Articles/Flashing_LED_goggles_spark_visual_hallucinations/a36056).
+The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience a form of hallucination known as [Purkinje patterns](https://www.photonics.com/Articles/Flashing_LED_goggles_spark_visual_hallucinations/a36056).
 
 These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
 
 > [!NOTE]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
 
-The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I wired them up as two rectangles on the breadboard, shaped and spaced to align my eyes when held up to my face.
-
-The code drives the LEDs such that:
+The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I wired them up as two rectangles on a breadboard, shaped and spaced to align my eyes when held up to my face.
 
 
-### Color (Light Frequency)
+### Key Properties
+Visual induction of Purkinke hallucinations are driven by these properties:
+
+#### Light Frequency (Color)
 High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wavelengths) can also be effective as they penetrate closed eyelids well.
 
 
-### Rhythmicity (Blinking Frequency)
+#### Rhythmicity (Blinking Frequency)
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
 * 25ms: white with line patterns
@@ -35,8 +36,8 @@ The research literature aligns pretty well with my results:
 > Stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures. Be careful out there!
 
 
-### Luminous intensity (Brightness)
-High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
+#### Luminous intensity (Brightness)
+High-intensity LEDs (15,000+ mcd) can be used for good eyelid penetration.
 
 
 ## Usage
