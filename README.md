@@ -2,12 +2,12 @@
 Code that drives the Purkinje Device.
 
 ## The Purkinje Device
-The Purkinje Device is a very simple electronic device that causes the user to experience a form of hallucination known as a [https://en.wikipedia.org/wiki/Purkinje_images](Purkinje image). 
+The Purkinje Device is a very simple electronic device that causes the user to experience a form of hallucination known as a [Purkinje image](https://en.wikipedia.org/wiki/Purkinje_images).
 
 These hallucinations are visually induced perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
 
 > [!NOTE]
-> This [https://en.wikipedia.org/wiki/Entoptic_phenomenon](entoptic phenomenon) was first documented by Jan Evangelista Purkyně in 1819.
+> This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by Jan Evangelista Purkyně in 1819.
 
 The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. The code drives the LED such that:
 
