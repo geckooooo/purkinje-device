@@ -11,7 +11,7 @@ These hallucinations are visually induced perceptual disturbances, such as patte
 
 The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. The code drives the LED such that:
 
-- The light frequency is 
+- The light frequency itself is (?)
 - The LEDs flicker such that they are on for 3ms, and then off for vary intervals to create different visual images. My anecdotal, empirical findings are:
 
 - 50ms: splotches of color.
