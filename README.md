@@ -23,6 +23,7 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 The user simply holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
 
 ### To Do
-- Migrate from Arduino/Processing to Raspberry Pi/Go
-- Document the LED type/color to use
+- Migrate from Arduino/Processing to Raspberry Pi/Go (using periph.io)
+- Document the LED type/color(s) to use
 - Implement command line parameters for setting the between-blinks (off) duration
+- Implement "Display Mode" blinking using a normal display
