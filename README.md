@@ -44,6 +44,6 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 
 ## To Do
 * Port from Arduino/Processing to Raspberry Pi/Go using [periph.io](https://periph.io)
-* Document the LED type/color(s) to use
+* Document the electronics
 * Implement command line parameters for setting the between-blinks (off) duration
-* Implement "Display Mode" blinking using a normal display
+* Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display
