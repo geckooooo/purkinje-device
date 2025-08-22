@@ -43,7 +43,7 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 
 
 ## To Do
-* Migrate from Arduino/Processing to Raspberry Pi/Go using [periph.io](https://periph.io)
+* Port from Arduino/Processing to Raspberry Pi/Go using [periph.io](https://periph.io)
 * Document the LED type/color(s) to use
 * Implement command line parameters for setting the between-blinks (off) duration
 * Implement "Display Mode" blinking using a normal display
