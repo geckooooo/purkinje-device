@@ -38,12 +38,12 @@ The research literature aligns pretty well with my results:
 The user simply holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
 
 
+## Citations
+* Ffytche, D. H., et al. (2008). "Flashing LED goggles spark visual hallucinations." Photonics Spectra, 42(12), 62-63. This paper describes an experiment that used intensely flashing LEDs to induce visual hallucinations and observed the corresponding brain activity.
+
+
 ## To Do
 * Migrate from Arduino/Processing to Raspberry Pi/Go (using periph.io)
 * Document the LED type/color(s) to use
 * Implement command line parameters for setting the between-blinks (off) duration
 * Implement "Display Mode" blinking using a normal display
-
-
-## Citations
-* Ffytche, D. H., et al. (2008). "Flashing LED goggles spark visual hallucinations." Photonics Spectra, 42(12), 62-63. This paper describes an experiment that used intensely flashing LEDs to induce visual hallucinations and observed the corresponding brain activity.
