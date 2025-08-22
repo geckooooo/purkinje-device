@@ -4,7 +4,7 @@ Code that drives the Purkinje Device
 ## The Purkinje Device
 The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience a form of hallucination known as [Purkinje patterns](https://www.photonics.com/Articles/Flashing_LED_goggles_spark_visual_hallucinations/a36056).
 
-These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
+These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occur when a person is exposed to a certain kind of flickering or stroboscopic light.
 
 > [!NOTE]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
@@ -13,7 +13,7 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 
 
 ### Key Properties
-Visual induction of Purkinke hallucinations are driven by these properties:
+Visual induction of Purkinke hallucinations is a function of these properties:
 
 #### Light Frequency (Color)
 High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wavelengths) can also be effective as they penetrate closed eyelids well.
