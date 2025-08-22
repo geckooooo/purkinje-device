@@ -12,15 +12,15 @@ These hallucinations are visually induced perceptual disturbances, such as patte
 The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. The code drives the LED such that:
 
 
-# Color (Light Frequency)
+### Color (Light Frequency)
 White LEDs are most commonly used. Red LEDs (around 660nm wavelengths) can be particularly effective as they penetrate closed eyelids well.
 
 
-# Brightness
+### Brightness
 High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
 
 
-# Blinking Frequency
+### Blinking Frequency
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
 * 50ms: splotches of color.
@@ -34,16 +34,16 @@ The research literature aligns pretty well with my results:
 * 40-50ms off periods (18-23 Hz) producing color effects is consistent with alpha-range stimulation
 
 
-### Usage
+## Usage
 The user simply holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
 
 
-### To Do
+## To Do
 * Migrate from Arduino/Processing to Raspberry Pi/Go (using periph.io)
 * Document the LED type/color(s) to use
 * Implement command line parameters for setting the between-blinks (off) duration
 * Implement "Display Mode" blinking using a normal display
 
 
-### Citations
+## Citations
 * Ffytche, D. H., et al. (2008). "Flashing LED goggles spark visual hallucinations." Photonics Spectra, 42(12), 62-63. This paper describes an experiment that used intensely flashing LEDs to induce visual hallucinations and observed the corresponding brain activity.
