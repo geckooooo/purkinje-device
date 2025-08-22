@@ -2,9 +2,9 @@
 Code that drives the Purkinje Device.
 
 ## The Purkinje Device
-The Purkinje Device is a very simple electronic device that causes the user to experience a form of hallucination known as a [Purkinje image](https://en.wikipedia.org/wiki/Purkinje_images).
+The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience a form of hallucination known as a [Purkinje image](https://en.wikipedia.org/wiki/Purkinje_images).
 
-These hallucinations are visually induced perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
+These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occurs when a person is exposed to a certain kind of flickering or stroboscopic light.
 
 > [!NOTE]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
