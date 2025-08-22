@@ -20,7 +20,7 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 - 25ms: white with line patterns.
 
 ### Usage
-The user then holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
+The user simply holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
 
 ### To Do
 - Migrate from Arduino/Processing to Raspberry Pi/Go
