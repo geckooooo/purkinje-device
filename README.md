@@ -9,7 +9,7 @@ These hallucinations are perceptual disturbances, such as patterns of geometric 
 > [!NOTE]
 > This [entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) was first documented by the physiologist [Jan Evangelista Purkinje](https://en.wikipedia.org/wiki/Jan_Evangelista_Purkyně) in 1819.
 
-The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I shaped them as rectangles on the breadboard shaped and spaced to align my eyes when held up to my face.
+The physical device is simply two banks of LEDs--one for each eye--driven by an Arduino. Each bank can have 20-30 LEDs. I wired them up as two rectangles on the breadboard, shaped and spaced to align my eyes when held up to my face.
 
 The code drives the LEDs such that:
 
