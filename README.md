@@ -49,5 +49,6 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 * Implement command line parameters for setting the blinking frequencies
 * Implement "Display Mode" to cause Purkinje hallucinations using a normal computer display
 * Investigate using RGBW LEDs
+* Investigate varying brightness
 * Add support for "programmed sequences" --> lightshow in your mind!
 * Document the electronics
