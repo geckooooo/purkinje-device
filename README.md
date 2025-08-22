@@ -16,10 +16,6 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 White LEDs are most commonly used. Red LEDs (around 660nm wavelengths) can be particularly effective as they penetrate closed eyelids well.
 
 
-### Brightness
-High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
-
-
 ### Blinking Frequency
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
@@ -32,6 +28,10 @@ The research literature aligns pretty well with my results:
 
 * 25-35ms off periods (26-36 Hz) producing line patterns matches known optimal ranges
 * 40-50ms off periods (18-23 Hz) producing color effects is consistent with alpha-range stimulation
+
+
+### Brightness
+High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
 
 
 ## Usage
