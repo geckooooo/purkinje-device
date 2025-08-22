@@ -31,6 +31,9 @@ The research literature aligns pretty well with my results:
 * 25-35ms off periods (26-36 Hz) producing line patterns matches known optimal ranges
 * 40-50ms off periods (18-23 Hz) producing color effects is consistent with alpha-range stimulation
 
+> [!NOTE]
+> Caution: stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures.
+
 
 ### Brightness
 High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
