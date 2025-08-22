@@ -35,7 +35,7 @@ The research literature aligns pretty well with my results:
 > Stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures. Be careful out there!
 
 
-### Light Intensity (Brightness)
+### Luminous intensity (Brightness)
 High-intensity LED at (15,000+ mcd) can be used for good eyelid penetration.
 
 
