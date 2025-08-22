@@ -54,4 +54,5 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 * Investigate using RGBW LEDs
 * Add support for varying brightness. research suggests this varies the intensity of the hallucination-inducing effects
 * Add support for "programmed sequences" --> lightshow in your mind!
+* Investigate different light shapes, sizes, and distances
 * Document the electronics
