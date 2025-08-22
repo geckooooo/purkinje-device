@@ -15,6 +15,7 @@ The physical device is simply two banks of LEDs--one for each eye--driven by an 
 ### Key Properties
 Visual induction of Purkinke hallucinations is a function of these properties:
 
+
 #### Light Frequency (Color)
 High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wavelengths) can also be effective as they penetrate closed eyelids well.
 
@@ -36,7 +37,7 @@ The research literature aligns pretty well with my results:
 > Stroboscopic lights can be dangerous for individuals with photosensitive epilepsy or other neurological conditions, as they can trigger seizures. Be careful out there!
 
 
-#### Luminous intensity (Brightness)
+#### Luminous Intensity (Brightness)
 High-intensity LEDs (15,000+ mcd) can be used for good eyelid penetration.
 
 
