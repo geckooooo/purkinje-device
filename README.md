@@ -22,7 +22,7 @@ High-intensity white LEDs (5mm or 10mm) can be used. Red LEDs (around 660nm wave
 The LEDs flash such that they are on for 3ms and then off for varying intervals to create different visual effects. My anecdotal, empirical findings are:
 
 * 25ms: white with line patterns
-* 35ms: milder colors, line patterns (rings, etc.)
+* 35ms: mild colors, line patterns (rings, etc.)
 * 40ms: lots of fast-changing vivid colors
 * 50ms: splotches of color
 
