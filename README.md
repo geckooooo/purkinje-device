@@ -40,6 +40,17 @@ The research literature aligns pretty well with my results:
 #### Luminous Intensity (Brightness)
 High-intensity LEDs (15,000+ mcd) can be used for good eyelid penetration.
 
+## Installation
+1. Clone this repo.
+
+2. This project uses Task to support cross-compilation (Mac/Raspberry Pi) and deployment to the Raspberry Pi. Installation instructions can be found [here](https://taskfile.dev/docs/installation).
+
+3. Build the Purkinje Device binary: ```% task build-pi64```
+
+4. Deploy to your Raspberry Pi: ```% task deploy-pi```
+
+5. Then, run the binary locally on the Raspberry Pi: 
+
 
 ## Usage
 The user simply holds the LEDs in front of their closed eyes to hallucinate. No drugs required!
@@ -59,3 +70,4 @@ The user simply holds the LEDs in front of their closed eyes to hallucinate. No 
 * Investigate different light shapes, sizes, and distances
 * Investigate the effects of high/low contrast (e.g. in a dark or bright room)
 * Document the electronics
+* Finish the installation and usage docs
