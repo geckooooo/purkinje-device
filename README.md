@@ -2,7 +2,7 @@
 Code that drives the Purkinje Device
 
 ## The Purkinje Device
-The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience hallucinations known as [Purkinje patterns](https://www.photonics.com/Articles/Flashing_LED_goggles_spark_visual_hallucinations/a36056).
+The Purkinje Device is a very simple electronic device--a form of stroboscopic light stimulation (SLS)--that causes the user to experience a form of hallucination known as [Purkinje patterns](https://www.photonics.com/Articles/Flashing_LED_goggles_spark_visual_hallucinations/a36056).
 
 These hallucinations are perceptual disturbances, such as patterns of geometric shapes, colors, or spirals, that occur when a person is exposed to a certain kind of flickering or stroboscopic light.
 
