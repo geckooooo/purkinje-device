@@ -1,0 +1,26 @@
+version: '3'
+
+tasks:
+  # Default: build for Mac (native)
+  build:
+    cmds:
+      - go build -o bin/purkinje-mac .
+    silent: false
+
+  # Build for Raspberry Pi 64-bit OS
+  build-pi64:
+    cmds:
+      - GOOS=linux GOARCH=arm64 go build -o bin/purkinje-pi64 .
+    silent: false
+
+  # Build for Raspberry Pi 32-bit OS (most Raspbian installs)
+  build-pi32:
+    cmds:
+      - GOOS=linux GOARCH=arm GOARM=7 go build -o bin/purkinje-pi32 .
+    silent: false
+
+  # Copy binary to Raspberry Pi over SSH
+  deploy-pi:
+    deps: [build-pi64]
+    cmds:
+      - scp bin/purkinje-device-pi64 pi@raspberrypi.local:/home/pi/purkinje-device
